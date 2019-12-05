@@ -2,7 +2,7 @@
 <b>API for accepting Bitcoin (BTC) payments. Easy, instant, fully automated.</b>
 
 ## 🌴 Easy
-Now you don't need to set up your own Bitcoin payment infrastructure or use any other expensive services which charge 1% or more. Setting up is very easy and needs to be done only once.
+Now you don't need to set up your own Bitcoin payment infrastructure or use any other expensive services. Setting up is very easy and needs to be done only once.
 
 ## 🌿 Lowest cost in the market
 We charge you <code>0%</code> and only <code>0.00015 BTC/transaction</code>. Fee is flat and fixed forever.
