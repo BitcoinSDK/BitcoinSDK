@@ -4,7 +4,7 @@
 ## 🌴 Easy
 Now you don't need to set up your own Bitcoin payment infrastructure or use any other expensive services. Setting up is very easy and needs to be done only once.
 
-## 🌿 Lowest cost in the market
+## 🌿 Lowest cost in the market (0%)
 We charge you <code>0%</code> and only <code>0.00017500 BTC/transaction</code>. Fee is flat and fixed.
 
 ## ⚡️ Instant
