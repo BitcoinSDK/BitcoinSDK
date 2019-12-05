@@ -25,7 +25,7 @@ Support is provided by the <b>owner of the service</b> to every client in need. 
 
 # 🌲 Using BitcoinSDK
 ### Checking your balances
-<code>balance</code> or <code>bal</code> to show your BTC (and optionally USD, EUR, RUB) balances.
+<code>balance</code> or <code>bal</code> to show your BTC balances.
 
 ### Requesting new address for payment
 <code>address</code> or <code>new</code> with optional <code>bech32</code> flag. Short <code>segwit</code> address by default is used.
