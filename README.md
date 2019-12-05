@@ -38,21 +38,21 @@ Query: <code>new</code>
 
 Response: array
 
-Query: <code>new (bech32)</code>
+Query: <code>new [bech32]</code>
 
 Response: array
 
 ### Withdrawing BTC
-<code>withdraw</code> or <code>wtdr</code> with <code>(address, amount)</code> to withdraw BTC to your address. Flat fee for withdrawal is <code>0.0004 BTC</code>.
+<code>withdraw</code> or <code>wtdr</code> with <code>[address, amount]</code> to withdraw BTC to your address. Flat fee for withdrawal is <code>0.0004 BTC</code>.
 
-Query: <code>wtdr (3LBYDn5NhiFBi1cZ6yBSdNZWCLyujz1Ybg, 0.2355)</code>
+Query: <code>wtdr [3LBYDn5NhiFBi1cZ6yBSdNZWCLyujz1Ybg, 0.2355]</code>
 
 Response: array
 
 ### Withdrawing RUB
-<code>bankout</code> or <code>bank</code> with <code>(bank, amount in RUB)</code> to withdraw your BTC paid in RUB to Russian banks (<code>sberbank</code> or <code>tinkoff</code>).
+<code>bankout</code> or <code>bank</code> with <code>[bank, amount in RUB]</code> to withdraw your BTC paid in RUB to Russian banks (<code>sberbank</code> or <code>tinkoff</code>).
 
-Query: <code>bank (tinkoff, 5200555533330000)</code>
+Query: <code>bank [tinkoff, 5200555533330000]</code>
 
 Response: array
 
