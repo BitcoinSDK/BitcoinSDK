@@ -29,11 +29,14 @@ Support is provided by the <b>owner of the service</b> to every client in need. 
 
 ### Requesting new address for payment
 <code>address</code> or <code>new</code> with optional <code>bech32</code> flag. Short <code>segwit</code> address by default is used.
+
 Example: <code>new</code>.
+
 Example: <code>new (bech32)</code>.
 
 ### Withdrawing BTC
 <code>withdraw</code> or <code>wtdr</code> with <code>(address, amount)</code> to withdraw BTC to your address. Flat fee for withdrawal is <code>0.0004 BTC</code>.
+
 Example: <code>wtdr (3LBYDn5NhiFBi1cZ6yBSdNZWCLyujz1Ybg, 0.2355)</code>.
 
 ### Withdrawing fiat
