@@ -28,9 +28,9 @@ Support is provided by the <b>owner of the service</b> to every client in need. 
 <code>balance</code> or <code>bal</code> to show RUB, USD, EUR balances.
 
 ### Requesting new address for payment
-<code>address</code> or <code>new</code> with <code>(segwit/bech32)</code> to show RUB, USD, EUR balances.
+<code>address</code> or <code>new</code> with optional <code>bech32</code> flag. Short <code>segwit</code> address by default is used.
 
 ### Withdrawing BTC
-<code>withdraw</code> or <code>wtdr</code> with <code>(address, amount)</code> to show RUB, USD, EUR balances.
+<code>withdraw</code> or <code>wtdr</code> with <code>(address, amount)</code> to withdraw BTC to your address. Flat fee for withdrawal is <code>0.0004 BTC</code>.
 
 🌲 Bitcoin Corporation.
