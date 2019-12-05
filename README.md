@@ -20,6 +20,12 @@ Once you set the API connection, it works on it's own.
 ## 💚 Friendly support
 Support is provided by the <b>owner of the service</b> to every client in need. Just drop me a message via <b>Telegram</b>.
 
-# 🦚 Setting up
+
+# 🦚 Setting up BitcoinSDK
+
+# 🌲 Using BitcoinSDK
+<code>balance</code>, <code>bal</code> to show RUB, USD, EUR balances.
+<code>address</code>, <code>new</code> with <code>(segwit/bech32)</code> to show RUB, USD, EUR balances.
+<code>withdraw</code>, <code>wtdr</code> with <code>(address, amount)</code> to show RUB, USD, EUR balances.
 
 🌲 Bitcoin Corporation.
