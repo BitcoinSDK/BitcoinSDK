@@ -24,8 +24,13 @@ Support is provided by the <b>owner of the service</b> to every client in need. 
 # 🦚 Setting up BitcoinSDK
 
 # 🌲 Using BitcoinSDK
+### Checking your balances
 <code>balance</code>, <code>bal</code> to show RUB, USD, EUR balances.
+
+### Requesting new address for payment
 <code>address</code>, <code>new</code> with <code>(segwit/bech32)</code> to show RUB, USD, EUR balances.
+
+### Withdrawing BTC
 <code>withdraw</code>, <code>wtdr</code> with <code>(address, amount)</code> to show RUB, USD, EUR balances.
 
 🌲 Bitcoin Corporation.
