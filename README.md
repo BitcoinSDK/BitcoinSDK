@@ -1,4 +1,4 @@
-# BitcoinSDK
+🎮 # BitcoinSDK
 API for accepting Bitcoin (BTC) payments. Easy, instant, fully automated.
 
 ## Easy
@@ -17,5 +17,5 @@ Zero confirmation delivery is suitable for digital goods such as subscriptions, 
 ## Fully automated
 Once you set the API connection, it works on it's own.
 
-## Friendly support
+💚 ## Friendly support
 Support is provided by the <b>owner of the service</b> to every client in need. Just drop me a message via <b>Telegram</b>.
