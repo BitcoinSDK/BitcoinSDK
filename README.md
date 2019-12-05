@@ -8,11 +8,11 @@ Now you don't need to set up your own <b>Bitcoin payment infrastructure</b> or u
 We charge you <code>0%</code> and only <code>0.00017500 BTC/transaction</code>. Fee is flat and fixed.
 
 ## ⚡️ Instant
-We detect the payment immediately once it hits the Bitcoin network. By default we notify (via callback) 2 times:
+We detect the payment immediately once it hits the Bitcoin network. By default <b>we notify your URL</b> (via webhook callback) 2 times:
 - when transaction with BTC payment to your address appears in Bitcoin blockchain mempool (unconfirmed, 0 confirmations)
 - when transaction with BTC payment to your address gets 1 confirmation.
 
-We consider <b>payment made</b> when it gets <b>1 confirmation</b>. However you may prefer to deliver your service to a client with unconfirmed payment on 0 confirmation. Usually such services (like subscriptions) can be cancelled to a client by you later if transaction with payment to your address doesn't confirm.
+We consider <b>payment made</b> when it gets <b>1 confirmation</b>. ✅ However you may prefer to deliver your service to a client with unconfirmed payment on 0 confirmation. Usually such services (like subscriptions) can be cancelled to a client by you later if transaction with payment to your address doesn't confirm.
 
 ## 🌒 Fully automated
 Once you set the API connection, it works on it's own.
