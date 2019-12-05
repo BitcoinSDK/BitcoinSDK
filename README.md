@@ -12,7 +12,7 @@ We detect the payment immediately once it hits the Bitcoin network. By default w
 - when transaction with BTC payment to your address appears in Bitcoin blockchain mempool (unconfirmed, 0 confirmations)
 - when transaction with BTC payment to your address gets 1 confirmation.
 
-Zero confirmation delivery is suitable for digital goods such as subscriptions, which can be cancelled by you later if transaction with payment to your address didn't confirm.
+We consider <b>payment made</b> when it gets <b>1 confirmation</b>. However you may prefer to deliver your service to a client with unconfirmed payment on 0 confirmation. Usually such services (like subscriptions) can be cancelled to a client by you later if transaction with payment to your address doesn't confirm.
 
 ## 🌒 Fully automated
 Once you set the API connection, it works on it's own.
