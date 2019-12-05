@@ -34,6 +34,6 @@ Support is provided by the <b>owner of the service</b> to every client in need. 
 <code>withdraw</code> or <code>wtdr</code> with <code>(address, amount)</code> to withdraw BTC to your address. Flat fee for withdrawal is <code>0.0004 BTC</code>.
 
 ### Withdrawing fiat
-<code>bankout</code> or <code>bank</code> with <code>(bank, amount in RUB)</code> to withdraw your BTC paid in RUB to Russian banks (<code>sberbank</code> or <code>tinkoff</code>). Payments are made at 14.00 UTC time.
+<code>bankout</code> or <code>bank</code> with <code>(bank, amount in RUB)</code> to withdraw your BTC paid in RUB to Russian banks (<code>sberbank</code> or <code>tinkoff</code>). Payments are made daily at 14.00 UTC time (17.00 Moscow time).
 
 🌲 Bitcoin Corporation.
