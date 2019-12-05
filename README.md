@@ -1,5 +1,5 @@
 # 🎮 BitcoinSDK
-API for accepting Bitcoin (BTC) payments. Easy, instant, fully automated.
+## API for accepting Bitcoin (BTC) payments. Easy, instant, fully automated.
 
 ## 🌴 Easy
 Now you don't need to set up your own Bitcoin payment infrastructure or use any other expensive services which charge 1% or more. Setting up is very easy and needs to be done only once.
