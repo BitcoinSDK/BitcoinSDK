@@ -18,4 +18,4 @@ Zero confirmation delivery is suitable for digital goods such as subscriptions, 
 Once you set the API connection, it works on it's own.
 
 ## Friendly support
-Support is provided by the owner of the service to every client. Just drop me a message via Telegram.
+Support is provided by the <b>owner of the service</b> to every client in need. Just drop me a message via <b>Telegram</b>.
