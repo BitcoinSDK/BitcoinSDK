@@ -41,8 +41,8 @@ Response: array
 Query examples:
 ```
 new
-new [type="bech32"]
-new [type="bech32", amount=0.2355]
+new ["type"="bech32"]
+new ["type"="bech32", "amount"=0.2355]
 ```
 
 Response: array
@@ -52,6 +52,6 @@ Response: array
 
 Query examples:
 ```
-wtdr [address="3LBYDn5NhiFBi1cZ6yBSdNZWCLyujz1Ybg", amount=0.2355]
-wtdr [address="bc1qvzpvnshms3gd9ap7dsnt8afxlv8pvt0mhehnfy", amount=0.2355]
+wtdr ["address"="3LBYDn5NhiFBi1cZ6yBSdNZWCLyujz1Ybg", "amount"=0.2355]
+wtdr ["address"="bc1qvzpvnshms3gd9ap7dsnt8afxlv8pvt0mhehnfy", "amount"=0.2355]
 ```
