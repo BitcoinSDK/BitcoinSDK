@@ -21,9 +21,13 @@ Once you set the API connection, it works on it's own.
 Support is provided by the <b>owner of the service</b> to every client in need. Just drop me a message via <b>Telegram</b>.
 
 
+
 # 🦚 Setting up Bitcoin SDK
 
+
+
 # 🌲 Using Bitcoin SDK
+
 ### Checking your balances
 <code>balance</code> or <code>bal</code> to show your BTC balances.
 
@@ -46,8 +50,6 @@ Response: array
 <code>withdraw</code> or <code>wtdr</code> with <code>[address, amount]</code> to withdraw BTC to your address. Flat fee for withdrawal is <code>0.0004 BTC</code>.
 
 Query: <code>wtdr [3LBYDn5NhiFBi1cZ6yBSdNZWCLyujz1Ybg, 0.2355]</code>
+Query: <code>wtdr [bc1qvzpvnshms3gd9ap7dsnt8afxlv8pvt0mhehnfy, 0.2355]</code>
 
 Response: array
-
-
-🌲 Bitcoin Corporation.
