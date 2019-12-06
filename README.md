@@ -36,20 +36,27 @@ Query: <code>bal</code>
 Response: array
 
 ### Requesting new address for payment
-<code>address</code> or <code>new</code> with optional <code>bech32</code> flag. Short <code>segwit</code> address by default is used.
+<code>address</code> or <code>new</code> with optional <code>type=bech32</code> flag. Short <code>segwit</code> address by default is used.
 
 Query: <code>new</code>
 
 Response: array
 
-Query: <code>new [bech32]</code>
+Query: <code>new [amount=0.2355]</code>
+
+Response: array
+
+Query: <code>new [type=bech32]</code>
 
 Response: array
 
 ### Withdrawing BTC
 <code>withdraw</code> or <code>wtdr</code> with <code>[address, amount]</code> to withdraw BTC to your address. Flat fee for withdrawal is <code>0.0004 BTC</code>.
 
-Query: <code>wtdr [3LBYDn5NhiFBi1cZ6yBSdNZWCLyujz1Ybg, 0.2355]</code>
-Query: <code>wtdr [bc1qvzpvnshms3gd9ap7dsnt8afxlv8pvt0mhehnfy, 0.2355]</code>
+Query: <code>wtdr [address="3LBYDn5NhiFBi1cZ6yBSdNZWCLyujz1Ybg", amount=0.2355]</code>
+
+Response: array
+
+Query: <code>wtdr [address="bc1qvzpvnshms3gd9ap7dsnt8afxlv8pvt0mhehnfy", amount=0.2355]</code>
 
 Response: array
