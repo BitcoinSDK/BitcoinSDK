@@ -41,7 +41,8 @@ Response: array
 Query:
 ```new
 new [type="bech32"]
-new [type="bech32", amount=0.2355]```
+new [type="bech32", amount=0.2355]
+```
 
 Response: array
 
