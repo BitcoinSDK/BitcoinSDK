@@ -36,7 +36,7 @@ Query: <code>bal</code>
 Response: array
 
 ### Requesting new address for payment
-<code>address</code> or <code>new</code> with optional <code>type=bech32</code> flag. Short <code>segwit</code> address by default is used.
+<code>address</code> or <code>new</code> with <b>optional</b> parameters <code>amount</code> and <code>type</code>. Short <b>segwit</b> address by default is used.
 
 Query examples:
 ```
