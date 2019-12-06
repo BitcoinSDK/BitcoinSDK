@@ -29,7 +29,7 @@ Support is provided by the <b>owner of the service</b> to every client in need. 
 # 🌲 Using Bitcoin SDK
 
 ### Checking your balances
-<code>balance</code> or <code>bal</code> to show your BTC balances.
+<code>bal</code> or <code>balance</code> to show your BTC balances.
 
 Query: <code>bal</code>
 
