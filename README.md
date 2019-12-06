@@ -1,4 +1,4 @@
-# 🎮 BitcoinSDK
+# 🎮 Bitcoin SDK
 <b>API for accepting Bitcoin (BTC) payments. Easy, instant, fully automated.</b>
 
 ## 🌴 Easy
@@ -21,9 +21,9 @@ Once you set the API connection, it works on it's own.
 Support is provided by the <b>owner of the service</b> to every client in need. Just drop me a message via <b>Telegram</b>.
 
 
-# 🦚 Setting up BitcoinSDK
+# 🦚 Setting up Bitcoin SDK
 
-# 🌲 Using BitcoinSDK
+# 🌲 Using Bitcoin SDK
 ### Checking your balances
 <code>balance</code> or <code>bal</code> to show your BTC balances.
 
