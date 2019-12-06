@@ -39,9 +39,9 @@ Response: array
 <code>address</code> or <code>new</code> with optional <code>type=bech32</code> flag. Short <code>segwit</code> address by default is used.
 
 Query:
-<code>new</code>
-<code>new [type="bech32"]</code>
-<code>new [type="bech32", amount=0.2355]</code>
+```new
+new [type="bech32"]
+new [type="bech32", amount=0.2355]```
 
 Response: array
 
