@@ -46,7 +46,7 @@ Query: <code>new [amount=0.2355]</code>
 
 Response: array
 
-Query: <code>new [type=bech32]</code>
+Query: <code>new [type="bech32"]</code>
 
 Response: array
 
