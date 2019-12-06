@@ -42,6 +42,7 @@ Query examples:
 ```
 new
 new ["type"="bech32"]
+new ["amount"=0.2355]
 new ["type"="bech32", "amount"=0.2355]
 ```
 
