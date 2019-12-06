@@ -4,8 +4,8 @@
 ## 🌴 Easy
 Now you don't need to set up your own <b>Bitcoin payment infrastructure</b> or use any other expensive services. Our infrastructure is just perfect. Zero communication with humans, unless you want it. <b>Setting up is very easy</b> and needs to be done <b>only once</b>.
 
-## 🌿 Lowest cost in the market (0%)
-We charge you <code>0%</code> and only <code>0.00017500 BTC/transaction</code>. Fee is flat and fixed.
+## 🌿 Lowest cost in the market (0.75%)
+We charge you flat and fixed <code>0.75%</code> fee.
 
 ## ⚡️ Instant
 We detect the payment immediately once it hits the Bitcoin network. By default <b>we notify your URL</b> (via webhook callback) 2 times:
