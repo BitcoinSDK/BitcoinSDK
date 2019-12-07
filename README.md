@@ -62,7 +62,8 @@ wtdr ["address"="bc1qvzpvnshms3gd9ap7dsnt8afxlv8pvt0mhehnfy", "amount"=0.2355]
 
 Query example:
 ```
-bank [tinkoff, 5200555533330000]
+bank ["bank"="sberbank", "card"=5200555533330000]
+bank ["bank"="tinkoff", "card"=5200555533330000]
 ```
 
 Response: array
