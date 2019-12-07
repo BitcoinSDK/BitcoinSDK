@@ -58,8 +58,11 @@ wtdr ["address"="bc1qvzpvnshms3gd9ap7dsnt8afxlv8pvt0mhehnfy", "amount"=0.2355]
 ```
 
 ### Withdrawing RUB
-<code>bankout</code> or <code>bank</code> with <code>[bank, amount in RUB]</code> to withdraw your BTC paid in RUB to Russian banks <code>sberbank</code> or <code>tinkoff</code>.
+<code>bank</code> or <code>bankout</code> with <b>required</b> parameters <code>[bank, amount in RUB]</code> to withdraw your BTC paid in RUB to Russian banks <code>sberbank</code> or <code>tinkoff</code>.
 
-Query: <code>bank [tinkoff, 5200555533330000]</code>
+Query example:
+```
+bank [tinkoff, 5200555533330000]
+```
 
 Response: array
