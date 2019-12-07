@@ -24,6 +24,8 @@ Support is provided by the <b>owner of the service</b> to every client in need. 
 
 # 🦚 Setting up Bitcoin SDK
 
+### Getting token (required)
+The only required setting is getting <b>token</b> which is used by the BitcoinSDK for <b>identifying</b> and <b>authenticating</b> client.
 
 
 # 🌲 Using Bitcoin SDK
