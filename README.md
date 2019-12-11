@@ -36,7 +36,7 @@ Query <code>balance</code> to show your <b>BTC balance</b>.
 Response example: <code>0.00520055</code>
 
 ### Requesting new address for payment
-<code>new</code> or <code>address</code> with <b>optional</b> parameters <code>amount</code> and <code>type</code>. Short <b>segwit</b> address by default is used.
+<code>new</code> with <b>optional</b> parameters <code>amount</code> and <code>type</code>. Short <b>segwit</b> address by default is used.
 
 Query examples:
 ```
