@@ -31,9 +31,9 @@ The only required setting is getting <b>token</b> which is used by the BitcoinSD
 # 🌲 Using Bitcoin SDK
 
 ### Checking your balances
-<code>bal</code> or <code>balance</code> to show your BTC balances.
+<code>balance</code> to show your BTC balances.
 
-Query: <code>bal</code>
+Query: <code>balance</code>
 
 Response: array
 
