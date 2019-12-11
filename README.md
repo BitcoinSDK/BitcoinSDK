@@ -33,7 +33,7 @@ The only required setting is getting <b>token</b> which is used by the BitcoinSD
 ### Checking your balances
 Query <code>balance</code> to show your <b>BTC balance</b>.
 
-Response: array
+Response example: <code>0.00520055</code>
 
 ### Requesting new address for payment
 <code>new</code> or <code>address</code> with <b>optional</b> parameters <code>amount</code> and <code>type</code>. Short <b>segwit</b> address by default is used.
