@@ -49,7 +49,7 @@ new ["type"="bech32", "amount"=0.2355]
 Response: array
 
 ### Withdrawing BTC
-<code>wtdr</code> with <b>required</b> parameters <code>[address, amount]</code> to withdraw BTC to your address. Flat fee for withdrawal is <code>0.0004 BTC</code>.
+<code>wtdr</code> with <b>required</b> parameters <code>[address, amount]</code> to withdraw BTC to your address. Flat fee for withdrawal is <code>0.0002 BTC</code>.
 
 Query examples:
 ```
