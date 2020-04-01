@@ -9,7 +9,7 @@ We charge you flat and fixed <code>0%</code> fee. :-)
 
 ### ⚡️ Instant
 We detect the payment immediately once it hits the Bitcoin network. By default <b>we notify your URL</b> (via webhook callback) 2 times:
-- when transaction with BTC payment to your address appears in Bitcoin network (unconfirmed, 0 confirmations)
+- when transaction with BTC payment to your address appears in Bitcoin network (unconfirmed)
 - when transaction with BTC payment to your address gets 1 confirmation.
 
 We consider <b>payment made</b> when it gets <b>1 confirmation</b>. ✅ However you may prefer to deliver your service to a client with unconfirmed payment on 0 confirmation. Usually such services (like subscriptions) can be cancelled to a client by you later if transaction with payment to your address doesn't confirm.
